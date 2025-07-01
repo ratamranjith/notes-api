@@ -1,0 +1,26 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "Simple Note Taking Application using Nodejs and ExpressJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratamranjith/notes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ratamranjith/notes-api/issues"
+  },
+  "homepage": "https://github.com/ratamranjith/notes-api#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}
