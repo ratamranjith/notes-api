@@ -11,7 +11,6 @@ A simple RESTful API built using **Node.js**, **Express**, and **local JSON file
 - REST API endpoints to manage notes
 - Stores data locally in a JSON file
 - Includes Postman collection
-- Swagger documentation (optional)
 
 ---
 
